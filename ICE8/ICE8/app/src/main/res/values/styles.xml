@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomFAB" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="backgroundTint">@color/colorAccent</item>
+        <item name="rippleColor">@color/colorPrimaryDark</item>
+        <item name="fabSize">normal</item>
+        <item name="elevation">6dp</item>
+    </style>
+</resources>
